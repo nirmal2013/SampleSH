@@ -3,15 +3,31 @@
 <br>
 <div class="container text-center">
 <div class="row">
-       <div class="col-lg-12">
-           <ul class="nav nav-pills nav-justified">
-
-               <li><a href="#">Terms of Service</a></li>
-               <li><a href="#">Privacy</a></li>
-           </ul>
-       </div>
-   </div>
+     <div class="col-lg-12">
+       <ul class="nav">
+         <li class="nav-item">
+           <a class="nav-link active" href="index.php">Home</a>
+         </li>
+         <li class="nav-item">
+           <a class="nav-link" href="#">About us</a>
+         </li>
+         <li class="nav-item">
+           <a class="nav-link" href="#">Services</a>
+         </li>
+         <li class="nav-item">
+           <a class="nav-link" href="#">Tariff</a>
+         </li>
+         <li class="nav-item">
+           <a class="nav-link" href="#">Contact Us</a>
+         </li>
+         <li class="nav-item">
+           <a class="nav-link" href="#">Partners Login</a>
+         </li>
+      </ul>
+     </div>
+  </div>
 </div>
+<hr class="style1">
 <footer class="footer">
   <p align="center">© Shala Hamsa 2017</p>
 </footer>
