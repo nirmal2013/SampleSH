@@ -9,16 +9,16 @@
            <a class="nav-link active" href="index.php">Home</a>
          </li>
          <li class="nav-item">
-           <a class="nav-link" href="#">About us</a>
+           <a class="nav-link" href="about-us.php">About us</a>
          </li>
          <li class="nav-item">
-           <a class="nav-link" href="#">Services</a>
+           <a class="nav-link" href="services.php">Services</a>
          </li>
          <li class="nav-item">
-           <a class="nav-link" href="#">Tariff</a>
+           <a class="nav-link" href="tariff.php">Tariff</a>
          </li>
          <li class="nav-item">
-           <a class="nav-link" href="#">Contact Us</a>
+           <a class="nav-link" href="contact-us.php">Contact Us</a>
          </li>
          <li class="nav-item">
            <a class="nav-link" href="#">Partners Login</a>
