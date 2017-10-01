@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
-<hr class="style1">
-
+<h1 class="text-center"> Services </h1>
+<br>
 <div class="card-group">
   <div class="card">
     <img class="card-img-top" src="..." alt="Card image cap">

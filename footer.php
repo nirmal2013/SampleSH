@@ -15,13 +15,10 @@
            <a class="nav-link" href="services.php">Services</a>
          </li>
          <li class="nav-item">
-           <a class="nav-link" href="tariff.php">Tariff</a>
-         </li>
-         <li class="nav-item">
            <a class="nav-link" href="contact-us.php">Contact Us</a>
          </li>
          <li class="nav-item">
-           <a class="nav-link" href="#">Partners Login</a>
+           <a class="nav-link" href="#">Employee Login</a>
          </li>
       </ul>
      </div>

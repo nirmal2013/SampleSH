@@ -24,6 +24,11 @@
               </li>
             </ul>
           </nav>
-          <img src="images/logo128.jpg">
-          <h3 class="text-muted">Shala Hamsa</h3>
+          <div class="row">
+            <img src="images/logo128.jpg">
+            <div>
+              <img src="images/Logoname32.jpg">
+            </div>
+
+          </div>
         </div>
