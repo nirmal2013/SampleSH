@@ -1,3 +1,21 @@
+<br>
+<hr class="style1">
+<br>
+<div class="container text-center">
+<div class="row">
+       <div class="col-lg-12">
+           <ul class="nav nav-pills nav-justified">
+
+               <li><a href="#">Terms of Service</a></li>
+               <li><a href="#">Privacy</a></li>
+           </ul>
+       </div>
+   </div>
+</div>
+<footer class="footer">
+  <p align="center">© Shala Hamsa 2017</p>
+</footer>
+
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
