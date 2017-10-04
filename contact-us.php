@@ -62,16 +62,16 @@
             <form>
             <legend><span class="glyphicon glyphicon-globe"></span> Our office</legend>
             <address>
-                <strong>Twitter, Inc.</strong><br>
-                795 Folsom Ave, Suite 600<br>
-                San Francisco, CA 94107<br>
+                <strong>Shala Hamsa property services</strong><br>
+                Kudlu, Bangalore<br>
+                Karnataka, India<br>
                 <abbr title="Phone">
                     P:</abbr>
-                (123) 456-7890
+                (080) 0000 0000
             </address>
             <address>
-                <strong>Full Name</strong><br>
-                <a href="mailto:#">first.last@example.com</a>
+                <strong>Customer Care</strong><br>
+                <a href="mailto:#">c3@shalahamsa.com</a>
             </address>
             </form>
         </div>
