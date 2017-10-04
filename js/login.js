@@ -24,9 +24,17 @@
     const pass = inputPassword.value;
     const auth = firebase.auth();
     // Sign In
-    auth.signInWithEmailAndPassword(email, pass);
+    const promise = auth.signInWithEmailAndPassword(email, pass);
     promise.catch(e => console.log(e.message));
-
-
   });
+
+  //Add signup event
+  btnSignup.addEventListener('click', e => {
+    // Get email and pass
+    const email = inputUsernameEmail.value;
+    const pass = inputPassword.value;
+    const auth = firebase.auth();
+    // Sign In
+    const promise = auth.createUserWithEmailAndPassword(email, pass);
+    promise.catch(e => console.log(e.message));
 }());
